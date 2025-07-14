@@ -15,7 +15,7 @@ const Contact = () => {
                 <img src={Walmart} alt="" className="clientImg" />
                 <img src={Adobe} alt="" className="clientImg" />
                 <img src={Microsoft} alt="" className="clientImg" />
-                <img src={Facebook} alt="" className="clientImg" />
+                {/* <img src={Facebook} alt="" className="clientImg" />  */}
             </div>
         </div>
         <div className="contact">
